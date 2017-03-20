@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ninja.Test", "Ninja.Test\Ni
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ninja.Console", "Ninja.Console\Ninja.Console.csproj", "{5D5CA1A8-D4C1-4CA5-9E0E-9226D6D0A248}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ninja.App", "Ninja.App\Ninja.App.csproj", "{9DE5EB14-2AA6-4D8F-BB1A-F8584F77ADBE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{5D5CA1A8-D4C1-4CA5-9E0E-9226D6D0A248}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5D5CA1A8-D4C1-4CA5-9E0E-9226D6D0A248}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5D5CA1A8-D4C1-4CA5-9E0E-9226D6D0A248}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DE5EB14-2AA6-4D8F-BB1A-F8584F77ADBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DE5EB14-2AA6-4D8F-BB1A-F8584F77ADBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DE5EB14-2AA6-4D8F-BB1A-F8584F77ADBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DE5EB14-2AA6-4D8F-BB1A-F8584F77ADBE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
